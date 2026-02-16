@@ -34,7 +34,11 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 </p>
-
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"/>
+    </a>
+</div>
 <hr>
 
 <h2>🎯 Objetivo y Alcance</h2>
@@ -504,10 +508,20 @@
 
 <hr>
 
-<h2>⚖️ Licencia</h2>
+<h2 align="left">⚖️ Licencia</h2>
 
-<p>
-    La licencia del proyecto se especifica en el archivo <code>LICENSE</code> de este repositorio.
+<p align="left">
+  Este proyecto está bajo la <b>Licencia MIT</b>. Para más detalles, puedes consultar el archivo 
+  <a href="LICENSE"><code>LICENSE</code></a> incluido en la raíz de este repositorio.
 </p>
+
+<p align="left">
+  <i>
+    La licencia MIT permite el uso, copia, modificación y distribución del software de forma gratuita, 
+    siempre que se incluya el aviso de copyright original.
+  </i>
+</p>
+
+<hr>
 
 <p><em>ImpulsaMe – Plataforma de crowdfunding en Java con moderación, pagos y control de acceso por roles.</em></p>
