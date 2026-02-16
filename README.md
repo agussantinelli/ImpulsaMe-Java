@@ -508,10 +508,20 @@
 
 <hr>
 
-<h2>⚖️ Licencia</h2>
+<h2 align="left">⚖️ Licencia</h2>
 
-<p>
-    La licencia del proyecto se especifica en el archivo <code>LICENSE</code> de este repositorio.
+<p align="left">
+  Este proyecto está bajo la <b>Licencia MIT</b>. Para más detalles, puedes consultar el archivo 
+  <a href="LICENSE"><code>LICENSE</code></a> incluido en la raíz de este repositorio.
 </p>
+
+<p align="left">
+  <i>
+    La licencia MIT permite el uso, copia, modificación y distribución del software de forma gratuita, 
+    siempre que se incluya el aviso de copyright original.
+  </i>
+</p>
+
+<hr>
 
 <p><em>ImpulsaMe – Plataforma de crowdfunding en Java con moderación, pagos y control de acceso por roles.</em></p>
