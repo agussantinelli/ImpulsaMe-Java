@@ -35,9 +35,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 </p>
 <div align="center">
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"/>
-    </a>
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge&logo=gnu&logoColor=white" alt="GPLv3 License"/>
 </div>
 <hr>
 
@@ -488,40 +486,42 @@
 
 <p>Proyecto académico desarrollado en equipo para la UTN FRRO (Catedra Lenguaje de Programación Java).</p>
 
-<hr>
-
-<h2>🤝 Contribuir</h2>
-
-<ol>
-    <li>Haz un <strong>fork</strong> del repositorio.</li>
-    <li>Crea una rama con el formato <code>feature/...</code> o <code>fix/...</code>.</li>
-    <li>Realiza los cambios con buenas prácticas (nombres claros, separación por capas, etc.).</li>
-    <li>Incluye, si es posible, tests o ejemplos de uso para la nueva funcionalidad.</li>
-    <li>Abre un <strong>Pull Request</strong> describiendo claramente:
-        <ul>
-            <li>Qué problema resuelve.</li>
-            <li>Qué partes del sistema toca (Servlets, DAOs, JSP, etc.).</li>
-            <li>Si requiere cambios en configuración o BD.</li>
-        </ul>
-    </li>
-</ol>
-
-<hr>
+<hr />
 
 <h2 align="left">⚖️ Licencia</h2>
 
 <p align="left">
-  Este proyecto está bajo la <b>Licencia MIT</b>. Para más detalles, puedes consultar el archivo 
+  Este proyecto está bajo la <b>Licencia GNU General Public License v3.0 (GPLv3)</b>. Puedes consultar los términos legales completos en el archivo 
   <a href="LICENSE"><code>LICENSE</code></a> incluido en la raíz de este repositorio.
 </p>
 
 <p align="left">
   <i>
-    La licencia MIT permite el uso, copia, modificación y distribución del software de forma gratuita, 
-    siempre que se incluya el aviso de copyright original.
+    🤝 <b>Compromiso Copyleft:</b> La GPLv3 permite el uso, estudio, modificación y distribución de este software. Sin embargo, cualquier obra derivada o modificación distribuida debe ser publicada bajo esta misma licencia, garantizando que el software permanezca libre y accesible para todos.
   </i>
 </p>
+<hr />
 
-<hr>
+<h2 align="left">🤝 Contribución</h2>
+
+<p align="left">
+  ¡Agradecemos enormemente tu interés en contribuir a este proyecto! Dado que este software se distribuye bajo la <b>Licencia GNU General Public License v3.0 (GPLv3)</b>, cualquier contribución que realices debe ser compatible con esta misma licencia.
+</p>
+
+<p align="left">
+  Para contribuir:
+  <ul>
+    <li>Haz un <a href="https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-with-pull-requests/creating-a-pull-request-from-a-fork" target="_blank">fork de este repositorio</a>.</li>
+    <li>Crea una nueva rama para tu funcionalidad (<code>git checkout -b feature/nueva-funcionalidad</code>).</li>
+    <li>Realiza tus cambios.</li>
+    <li>Envía un <a href="https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-with-pull-requests/creating-a-pull-request" target="_blank">Pull Request</a> detallando tus modificaciones.</li>
+  </ul>
+</p>
+
+<p align="left">
+  ¡Gracias por ser parte! 🙌✨
+</p>
+
+<hr />
 
 <p><em>ImpulsaMe – Plataforma de crowdfunding en Java con moderación, pagos y control de acceso por roles.</em></p>
